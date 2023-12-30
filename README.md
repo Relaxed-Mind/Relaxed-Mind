@@ -1,5 +1,5 @@
 ### Career
-University of Seoul, Department of Computer Science And Enginering (2018.03 ~ )
+University of Seoul, Department of Computer Science And Engineering (2018.03 ~ )
 
 Google Developer Student Club (GDSC) - Backend Team (2022.09 ~ 2023.09) [\<Team Blog\>](https://gdsc-university-of-seoul.github.io/)
 
